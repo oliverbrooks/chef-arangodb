@@ -1,3 +1,4 @@
+name              "arangodb"
 maintainer        "ArangoDB"
 maintainer_email  "jbianquetti@gmail.com"
 license           "Apache 2.0"
